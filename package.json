@@ -1,0 +1,29 @@
+{
+  "name": "cydia-repo-cli",
+  "version": "1.0.0",
+  "description": "View Cydia repos and their packages via the CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "cydia": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/Cydia-Repo-CLI.git"
+  },
+  "keywords": [
+    "cli",
+    "cydia",
+    "repo",
+    "tweak",
+    "jailbreak"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/Cydia-Repo-CLI/issues"
+  },
+  "homepage": "https://github.com/haykam821/Cydia-Repo-CLI#readme"
+}
